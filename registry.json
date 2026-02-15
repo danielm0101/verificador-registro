@@ -1,26 +1,7 @@
 {
   "version": 2,
-  "updated": "2026-02-15T22:32:57.500Z",
+  "updated": "2026-02-15T22:45:28.255Z",
   "max_offline_days": 0,
-  "autorizados": [
-    {
-      "hash": "c48ea911c90b3ee398e6099c118629794d5e8152567569468fd6a59dc4bb9bbb",
-      "nombre": "Daniel",
-      "expira": "2026-12-31",
-      "tier": "full"
-    },
-    {
-      "hash": "6abca2f998f97f9f2558f320642bbedbb16167738602da053c67e4641a416400",
-      "nombre": "Daniel",
-      "expira": "2026-12-31",
-      "tier": "full"
-    },
-    {
-      "hash": "ed56b3ce13c10cbe1d6a467109b0bbd327c667bf21952ff2090ec8125176ec58",
-      "nombre": "Daniel",
-      "expira": "2026-12-31",
-      "tier": "full"
-    }
-  ],
-  "signature": "9203e33f752efd03acd8378fd37871a67d70d32d09aed5f033d86859fbe927e6"
+  "autorizados": [],
+  "signature": "cb91469d7f7e7018284ba1e31dc5c0b1a364bca891cfb0678d58b7003e42ff8f"
 }

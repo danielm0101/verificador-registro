@@ -1,44 +1,7 @@
 {
   "version": 2,
-  "updated": "2026-02-15T22:13:22.871Z",
+  "updated": "2026-02-15T22:25:26.418Z",
   "max_offline_days": 0,
-  "autorizados": [
-    {
-      "hash": "c48ea911c90b3ee398e6099c118629794d5e8152567569468fd6a59dc4bb9bbb",
-      "nombre": "USB Principal",
-      "expira": "2026-12-31",
-      "tier": "admin"
-    },
-    {
-      "hash": "7d4c5bfc16e1760dabec0597c2cbde38d9b13815487e9cd8bcdd2ac54692f79c",
-      "nombre": "USB Principal (variante)",
-      "expira": "2026-12-31",
-      "tier": "admin"
-    },
-    {
-      "hash": "86a876c09c75c6e13c2e8146f91aba6f3f2b30d2b90a225c6cb2ca113d23c2c0",
-      "nombre": "USB Principal (variante)",
-      "expira": "2026-12-31",
-      "tier": "admin"
-    },
-    {
-      "hash": "5836b2bd84b27b967b5283e2056beeeaa8b965cdd5b1f4254b713146a32f19a3",
-      "nombre": "USB Principal (variante)",
-      "expira": "2026-12-31",
-      "tier": "admin"
-    },
-    {
-      "hash": "6abca2f998f97f9f2558f320642bbedbb16167738602da053c67e4641a416400",
-      "nombre": "USB Daniel Admin",
-      "expira": "2026-12-31",
-      "tier": "admin"
-    },
-    {
-      "hash": "ed56b3ce13c10cbe1d6a467109b0bbd327c667bf21952ff2090ec8125176ec58",
-      "nombre": "USB Daniel Admin",
-      "expira": "2026-12-31",
-      "tier": "admin"
-    }
-  ],
-  "signature": "af95a9f8568c041cc9b598eb03b7701ad6f4975e5fd401913adb32a946eddb13"
+  "autorizados": [],
+  "signature": "14abd941f32794329779c372d959f23dd79a23d03aa6af2babaa2ca819ad1aba"
 }

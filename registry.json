@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updated": "2026-02-15T18:00:00Z",
+  "updated": "2026-02-15T18:29:49.581Z",
   "max_offline_days": 0,
   "autorizados": [
     {
@@ -28,5 +28,5 @@
       "tier": "admin"
     }
   ],
-  "signature": "688d84e0812d3fc7152966edfc0dfcd578eb5ef95fc52c6a2420e3b4c54136f5"
+  "signature": "a159e27eba48a8e5625ac106d7b3eaf49ddf4c346e42393f1babc026578a23aa"
 }

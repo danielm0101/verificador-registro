@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <title>Verificador Electoral - Registro</title>
+  <style>body{font-family:sans-serif;max-width:600px;margin:40px auto;color:#333}h1{color:#40376d}</style>
+</head>
+<body>
+  <h1>Verificador Electoral</h1>
+  <p>Servidor de registro de llaves USB.</p>
+  <p>Ultima actualizacion: <span id="ts">...</span></p>
+  <script>
+    fetch('registry.json').then(r=>r.json()).then(d=>{
+      document.getElementById('ts').textContent=d.updated||'N/A';
+    }).catch(()=>{document.getElementById('ts').textContent='Error'});
+  </script>
+</body>
+</html>

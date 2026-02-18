@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updated": "2026-02-16T12:28:29.476Z",
+  "updated": "2026-02-18T21:14:25.576Z",
   "max_offline_days": 0,
   "autorizados": [
     {
@@ -20,7 +20,25 @@
       "nombre": "USB 44809211",
       "expira": "2026-12-31",
       "tier": "full"
+    },
+    {
+      "hash": "48820e79a65d0c99591fe9a771d93fe36bccadbc8f28cb807dd94c5066b9384d",
+      "nombre": "Mateo",
+      "expira": "2026-12-31",
+      "tier": "full"
+    },
+    {
+      "hash": "a3844152b830a0f0ca56b74ba52d0a27d6e30b85064a46f5ac147bfc1e12eaec",
+      "nombre": "Mateo",
+      "expira": "2026-12-31",
+      "tier": "full"
+    },
+    {
+      "hash": "cacb1cb402c713739f4dd5a54b0940b2f3d982f3af7c92cd080c30c9a403dbce",
+      "nombre": "Mateo",
+      "expira": "2026-12-31",
+      "tier": "full"
     }
   ],
-  "signature": "3ace63a700d470e20f6b8f061022d585e067eba15dcb31adffeb8b652785c12d"
+  "signature": "117ee51416698bab9791e45eb010cbfea8aaa5f305559db61ec401f4632ef4d3"
 }

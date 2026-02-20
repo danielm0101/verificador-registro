@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updated": "2026-02-20T15:03:03.532Z",
+  "updated": "2026-02-20T15:05:50.963Z",
   "max_offline_days": 0,
   "autorizados": [
     {
@@ -41,28 +41,28 @@
     },
     {
       "hash": "37a0e073328c94755e07c3e22b6c292e9172b931ef6f6dd76d3f545b9567f406",
-      "nombre": "Sin nombre",
+      "nombre": "USB 01763811",
       "expira": "2026-12-31",
-      "tier": "comparador"
+      "tier": "extractor"
     },
     {
       "hash": "602f790e0e45f4ae48fa72bd93a6a3d87857703b3ef54d55224be459e06122fc",
-      "nombre": "Sin nombre",
+      "nombre": "USB 01763811",
       "expira": "2026-12-31",
-      "tier": "comparador"
+      "tier": "extractor"
     },
     {
       "hash": "50ba3c49a7b778b646007d488cc8ffc9d130f86b0ab62503ed900524a91a2674",
-      "nombre": "Sin nombre",
+      "nombre": "USB 01763811",
       "expira": "2026-12-31",
-      "tier": "comparador"
+      "tier": "extractor"
     },
     {
       "hash": "c814c2b0178cbd3a5267a1030c333aa07907ec51b446c06bccabd998cc571dd4",
-      "nombre": "Sin nombre",
+      "nombre": "USB 01763811",
       "expira": "2026-12-31",
-      "tier": "comparador"
+      "tier": "extractor"
     }
   ],
-  "signature": "80d81326b8ac80a53efe2a022b76e511ff3c7cb326ee7d65c8e16279c75b97b1"
+  "signature": "0cdd768433b1763629a7066a9f72bf2a99c557740ec1c8b316d19b56e9260729"
 }

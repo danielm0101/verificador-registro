@@ -1,26 +1,26 @@
 {
   "version": 2,
-  "updated": "2026-02-20T15:14:10.569Z",
+  "updated": "2026-02-20T15:17:20.518Z",
   "max_offline_days": 0,
   "autorizados": [
     {
       "hash": "37a0e073328c94755e07c3e22b6c292e9172b931ef6f6dd76d3f545b9567f406",
-      "nombre": "extractor Daniel",
+      "nombre": "USB 01763811",
       "expira": "2026-12-31",
       "tier": "extractor"
     },
     {
       "hash": "d7e0a6aad5122a164b965d879fef0349add24d8a2689b39b35373808065d994c",
-      "nombre": "extractor Daniel",
+      "nombre": "USB 01763811",
       "expira": "2026-12-31",
       "tier": "extractor"
     },
     {
       "hash": "3f17faf6221dc4beeb4bfffd3e4e403add42ad1a3d4ca0372335ef19745defc9",
-      "nombre": "extractor Daniel",
+      "nombre": "USB 01763811",
       "expira": "2026-12-31",
       "tier": "extractor"
     }
   ],
-  "signature": "e9dd5d022dab0051992f734df7b7ea5f7b16a130f4db829bfe9568735ec3dacb"
+  "signature": "066d62fda901f128ab403779b1781625cfa565b69008bd8ad3353c3a79317acd"
 }

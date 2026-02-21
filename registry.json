@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updated": "2026-02-21T15:15:25.467Z",
+  "updated": "2026-02-21T18:27:07.395Z",
   "max_offline_days": 0,
   "autorizados": [
     {
@@ -20,13 +20,7 @@
       "nombre": "USB 01763811",
       "expira": "2026-12-31",
       "tier": "extractor"
-    },
-    {
-      "hash": "ed56b3ce13c10cbe1d6a467109b0bbd327c667bf21952ff2090ec8125176ec58",
-      "nombre": "USB 7BDB74AD",
-      "expira": "2026-12-31",
-      "tier": "comparador"
     }
   ],
-  "signature": "f5c255d1a8562d1bff2cf4a3665b75caf1deefb31da919333517dc68d5486620"
+  "signature": "65dac230653c3d230595ca7b75cc765a27d008fccf96882fb6c0f0c354dc235a"
 }

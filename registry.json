@@ -1,7 +1,14 @@
 {
   "version": 2,
-  "updated": "2026-02-27T04:53:06.746Z",
+  "updated": "2026-02-27T04:53:47.039Z",
   "max_offline_days": 0,
-  "autorizados": [],
-  "signature": "2d74957f5f8347d2268becee78a113c885e8392706680bf38fc4b84677325bac"
+  "autorizados": [
+    {
+      "hash": "3f17faf6221dc4beeb4bfffd3e4e403add42ad1a3d4ca0372335ef19745defc9",
+      "nombre": "daniel",
+      "expira": "2026-12-31",
+      "tier": "extractor"
+    }
+  ],
+  "signature": "b41fb475890984b45dc438b789c41777938fb99320ec5d32d35896f50c2aa974"
 }

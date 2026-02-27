@@ -1,7 +1,14 @@
 {
   "version": 2,
-  "updated": "2026-02-27T02:43:44.492Z",
+  "updated": "2026-02-27T02:43:53.749Z",
   "max_offline_days": 0,
-  "autorizados": [],
-  "signature": "f11b7de3d3e1081b24ff4a096bb8d54967e7c0e015dcf802ba14b23f6f3ceaee"
+  "autorizados": [
+    {
+      "hash": "3f17faf6221dc4beeb4bfffd3e4e403add42ad1a3d4ca0372335ef19745defc9",
+      "nombre": "USB 829CDA7C",
+      "expira": "2026-12-31",
+      "tier": "extractor"
+    }
+  ],
+  "signature": "a2526b1bf2f72fba6ca0d0958aeeb52429173dd05fa1c2168ed3fc18c66bf41b"
 }

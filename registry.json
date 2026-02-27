@@ -1,14 +1,7 @@
 {
   "version": 2,
-  "updated": "2026-02-27T04:52:01.811Z",
+  "updated": "2026-02-27T04:53:06.746Z",
   "max_offline_days": 0,
-  "autorizados": [
-    {
-      "hash": "3f17faf6221dc4beeb4bfffd3e4e403add42ad1a3d4ca0372335ef19745defc9",
-      "nombre": "Daniel practica 1",
-      "expira": "2026-12-31",
-      "tier": "extractor"
-    }
-  ],
-  "signature": "d673663f88ae0ac53a83c6466ce5fea9fe35a63ecb739881ab7c3951a16795b6"
+  "autorizados": [],
+  "signature": "2d74957f5f8347d2268becee78a113c885e8392706680bf38fc4b84677325bac"
 }

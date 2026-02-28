@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updated": "2026-02-28T05:53:18.436Z",
+  "updated": "2026-02-28T19:38:24.725Z",
   "max_offline_days": 0,
   "autorizados": [
     {
@@ -182,7 +182,13 @@
       "nombre": "Daniel",
       "expira": "2026-12-31",
       "tier": "extractor"
+    },
+    {
+      "hash": "aa068992fc4c6c0229b1a8b061f8a6e20ca37eaa69b100f0d63b16865bf0a398",
+      "nombre": "USB 0030",
+      "expira": "2026-07-20",
+      "tier": "extractor"
     }
   ],
-  "signature": "f2b759d2b4666bb963e952efd305bac7495eb45a9ecc7fbceb52b45b0591261a"
+  "signature": "3aaa857a0a0460966c601ef6ed6ef0b37489efb6e9e4bc1506ba607f78ae01fa"
 }

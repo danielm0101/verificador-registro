@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updated": "2026-02-28T01:45:19.485Z",
+  "updated": "2026-02-28T01:45:26.269Z",
   "max_offline_days": 0,
   "autorizados": [
     {
@@ -10,5 +10,5 @@
       "tier": "extractor"
     }
   ],
-  "signature": "ffa4196a7d367caef86f757fefd30c91190f33f00a5da105e085c02e302ef8f5"
+  "signature": "a1bace1b7b0b152c3745cd2fca7c76e800200cac4ae654534c57d5f945db9f7c"
 }

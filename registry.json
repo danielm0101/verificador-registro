@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updated": "2026-02-28T03:31:56.412Z",
+  "updated": "2026-02-28T03:32:56.740Z",
   "max_offline_days": 0,
   "autorizados": [
     {
@@ -18,9 +18,15 @@
     {
       "hash": "c27995e83fd4b58a1b501970393f0613601dbfb3ca2a11bdf39cdcb7ebf29e12",
       "nombre": "USB 0002",
-      "expira": "2026-12-31",
+      "expira": "2026-07-20",
+      "tier": "extractor"
+    },
+    {
+      "hash": "8e961e35001f4380aef23e36fe4da3fcba472588e4555d6e240333974760797c",
+      "nombre": "USB 0003",
+      "expira": "2026-07-20",
       "tier": "extractor"
     }
   ],
-  "signature": "379ef1248a1da3a3c1367e668781e999b552e5d74fe260726a96217db56fd8e9"
+  "signature": "2535d5e956a1aa6853430977c675095355299d65512d91404bc6b9041b0596a8"
 }

@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updated": "2026-03-02T21:52:45.560Z",
+  "updated": "2026-03-02T21:57:24.610Z",
   "max_offline_days": 0,
   "autorizados": [
     {
@@ -205,8 +205,8 @@
       "hash": "7950fb800125fb93f0df0e15a88ae3b0e078a2bdb013ecec1a8af6baa3fc35cf",
       "nombre": "UDB 0033",
       "expira": "2026-07-20",
-      "tier": "comparador"
+      "tier": "extractor"
     }
   ],
-  "signature": "b9321956634c076ddf8706b1985c160e648818d6eb918301d1b3dc6c7b200d9e"
+  "signature": "8b87b98a3ea4c76617b7aee224fc0a151308ce4be09c1f21803a962867fc720d"
 }

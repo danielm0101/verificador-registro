@@ -1,38 +1,194 @@
 {
   "version": 2,
-  "updated": "2026-03-02T20:23:48.987Z",
+  "updated": "2026-02-28T19:38:31.902Z",
   "max_offline_days": 0,
   "autorizados": [
     {
-      "hash": "6bc2cb8e5832710ae6acadaa5f3abae3f07823deab1012ae7205c707854be5f9",
+      "hash": "5eaf9712e4c9c904238ab5ba0a9fd86dac1e79490272cfb918b9af79f2bffabd",
       "nombre": "USB 0001",
       "expira": "2026-07-20",
-      "tier": "extractor"
+      "tier": "comparador"
     },
     {
-      "hash": "c27995e83fd4b58a1b501970393f0613601dbfb3ca2a11bdf39cdcb7ebf29e12",
+      "hash": "4ecbd436f4c46f3f79e928cfc21a1e9b52d2370420f584542dd8c3e2ef4abcf3",
       "nombre": "USB 0002",
+      "expira": "2026-07-20",
+      "tier": "comparador"
+    },
+    {
+      "hash": "ab23fcfacac24ed2b25c45d3e1bcd62bad5aef659613122c2c0b81f53e11fb83",
+      "nombre": "USB 0003",
+      "expira": "2026-07-20",
+      "tier": "comparador"
+    },
+    {
+      "hash": "b6ac4341619da9cf630a2ba9756a398920f7b84c60ee0b61fb5b98f306f378a4",
+      "nombre": "USB 0004",
       "expira": "2026-07-20",
       "tier": "extractor"
     },
     {
-      "hash": "8e961e35001f4380aef23e36fe4da3fcba472588e4555d6e240333974760797c",
-      "nombre": "USB 0003",
+      "hash": "10d0cdcdc2e992abb84ca481567623578f935b0d6344c0f819c6c41cbc1a9337",
+      "nombre": "USB 0005",
+      "expira": "2026-07-20",
+      "tier": "extractor"
+    },
+    {
+      "hash": "958dee5f20bba7933d5d6a85e04e2c58e5b22d8f6d501d0a0cb2630fa48937f7",
+      "nombre": "USB 0006",
+      "expira": "2026-07-20",
+      "tier": "extractor"
+    },
+    {
+      "hash": "fe9f4c9a4b37ffefb6be826b0b7f57ed237950c78ee9d35de2f3bb5526d1ab18",
+      "nombre": "USB 0007",
+      "expira": "2026-07-20",
+      "tier": "extractor"
+    },
+    {
+      "hash": "d9563f64c98825853f7a90a0c153d972f54858660427d6f70b29d7a19ff05b6b",
+      "nombre": "USB 0008",
+      "expira": "2026-07-20",
+      "tier": "extractor"
+    },
+    {
+      "hash": "ba1fb75e799dc8d3f5ac42b722e300e1e9f3bdaec65395228b295262939ee0ee",
+      "nombre": "USB 0009",
+      "expira": "2026-07-20",
+      "tier": "extractor"
+    },
+    {
+      "hash": "be1313b3599fb547aae95201bba68614a3cde1d02971af52c87c01c56af80f4f",
+      "nombre": "USB 0010",
+      "expira": "2026-07-20",
+      "tier": "extractor"
+    },
+    {
+      "hash": "c7ae56fb907ca582c1a582d4cbd37e359db5cd094a65a5bf00a7f9980cf013a1",
+      "nombre": "USB 0011",
+      "expira": "2026-07-20",
+      "tier": "extractor"
+    },
+    {
+      "hash": "571ea7f9e22337bc26648e7ba698a89167d2d994fe24ebac292389528d24b1e3",
+      "nombre": "USB 0012",
+      "expira": "2026-07-20",
+      "tier": "extractor"
+    },
+    {
+      "hash": "d2440157ec701495d9191810f4b07c6b5a0ad68e032168585297c5586e4ab170",
+      "nombre": "USB 0013",
+      "expira": "2026-07-20",
+      "tier": "extractor"
+    },
+    {
+      "hash": "67406af07aa0409db2205909c7a348172ac8cae0619e954dfcd9113265d16967",
+      "nombre": "USB 0014",
+      "expira": "2026-07-20",
+      "tier": "extractor"
+    },
+    {
+      "hash": "26f12a38c4a8badb50c9ef517d84a60f6ced86dc844377592160786a917dac22",
+      "nombre": "USB 0015",
+      "expira": "2026-07-20",
+      "tier": "extractor"
+    },
+    {
+      "hash": "8ecabc91c9d9a10ad403ef2c0fde4c84a2c740918e6733977f7a7ae28cb4781d",
+      "nombre": "USB 0016",
+      "expira": "2026-07-20",
+      "tier": "extractor"
+    },
+    {
+      "hash": "738bb20186e370118970f7a4cbc38e197ba75a2113bb314b3daa4c75f358425a",
+      "nombre": "USB 0017",
+      "expira": "2026-07-20",
+      "tier": "extractor"
+    },
+    {
+      "hash": "cdf87230d88b1574376382b5c9f14dc1c093c01f709087037ec7a3a7d51b8d1b",
+      "nombre": "USB 0018",
+      "expira": "2026-07-20",
+      "tier": "extractor"
+    },
+    {
+      "hash": "bd865d729cc3c00b6094169da929f71752768f7ded1a3056bd8991a97e0c73d8",
+      "nombre": "USB 0019",
+      "expira": "2026-07-20",
+      "tier": "extractor"
+    },
+    {
+      "hash": "928a740e7afaf5f4276617c0b9d4d72b98bbffaa2251801eead36ad77d16312a",
+      "nombre": "USB 0020",
+      "expira": "2026-07-20",
+      "tier": "extractor"
+    },
+    {
+      "hash": "b0f6e9bff322968d92824d531081f975d30802a011722ed1e3078789e8ac9644",
+      "nombre": "USB 0021",
+      "expira": "2026-07-20",
+      "tier": "extractor"
+    },
+    {
+      "hash": "cd3f31e3d69e6bf0cb7764e85bbfe1be5863a86cf303b83fe27c26d372a5011b",
+      "nombre": "USB 0022",
+      "expira": "2026-07-20",
+      "tier": "extractor"
+    },
+    {
+      "hash": "5c7ed79ab28c6a124c145acfa0b4d2d9ee8d5273a8a7ea4b260aefceca1de489",
+      "nombre": "USB 0023",
+      "expira": "2026-07-20",
+      "tier": "extractor"
+    },
+    {
+      "hash": "1a14396f4490502cc83c96f6982ccc8fd4921b20c195648a71e2cc980b021693",
+      "nombre": "USB 0024",
+      "expira": "2026-07-20",
+      "tier": "extractor"
+    },
+    {
+      "hash": "f3468247d37e8f3d7c9dd8d9c12563174a58174440ff9bed18c157301a2fc694",
+      "nombre": "USB 0025",
+      "expira": "2026-07-20",
+      "tier": "extractor"
+    },
+    {
+      "hash": "5e62225b0217bc530eae24d054e581647d2b6b2ccce0870e6c0fdcf993cf42c1",
+      "nombre": "USB 0026",
+      "expira": "2026-07-20",
+      "tier": "extractor"
+    },
+    {
+      "hash": "a349071812e19b1fbb0cce0e8194ad5432f1d8e32a880471624e84c9a449898b",
+      "nombre": "USB 0027",
+      "expira": "2026-07-20",
+      "tier": "extractor"
+    },
+    {
+      "hash": "6fa79a8596bccd5e586ee87bda1000990fb3a554fd92424b56c4a9550921bdda",
+      "nombre": "USB 0028",
+      "expira": "2026-07-20",
+      "tier": "extractor"
+    },
+    {
+      "hash": "60250baa607fc6199af6e3ba2652a12a29d318930c1ffff61bf46858351f1297",
+      "nombre": "USB 0029",
       "expira": "2026-07-20",
       "tier": "extractor"
     },
     {
       "hash": "3c617d5f7afe94c6ff2a6c484756d93b4bff0453314b8a4ada99bb4f9b641c2b",
-      "nombre": "DESWD",
+      "nombre": "Daniel",
       "expira": "2026-12-31",
       "tier": "extractor"
     },
     {
-      "hash": "575e2724394a864344a596c23bd820a9e8f84c8853678dd6129c96ee483c2199",
-      "nombre": "mAT",
-      "expira": "2026-12-31",
-      "tier": "comparador"
+      "hash": "aa068992fc4c6c0229b1a8b061f8a6e20ca37eaa69b100f0d63b16865bf0a398",
+      "nombre": "USB 0030",
+      "expira": "2026-07-20",
+      "tier": "extractor"
     }
   ],
-  "signature": "5c9444c8a67c28f3afbb57e7b962127b5acfdfa41881c4bbb9033938d7eeb364"
+  "signature": "af245d1d294f9af0e9148d5c19055d6183c35a51e880655b26bd6af4f2d09fea"
 }

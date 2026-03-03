@@ -1,0 +1,72 @@
+[
+  {
+    "hash": "37a0e073328c94755e07c3e22b6c292e9172b931ef6f6dd76d3f545b9567f406",
+    "nombre": "USB 01763811",
+    "expira": "2026-12-31",
+    "tier": "extractor",
+    "eliminado_en": "2026-03-02T20:59:21.892Z"
+  },
+  {
+    "hash": "d7e0a6aad5122a164b965d879fef0349add24d8a2689b39b35373808065d994c",
+    "nombre": "USB 01763811",
+    "expira": "2026-12-31",
+    "tier": "extractor",
+    "eliminado_en": "2026-03-02T20:59:40.424Z"
+  },
+  {
+    "hash": "3f17faf6221dc4beeb4bfffd3e4e403add42ad1a3d4ca0372335ef19745defc9",
+    "nombre": "USB 01763811",
+    "expira": "2026-12-31",
+    "tier": "extractor",
+    "eliminado_en": "2026-03-02T20:59:52.966Z"
+  },
+  {
+    "hash": "3c617d5f7afe94c6ff2a6c484756d93b4bff0453314b8a4ada99bb4f9b641c2b",
+    "nombre": "Daniel",
+    "expira": "2026-12-31",
+    "tier": "extractor",
+    "eliminado_en": "2026-03-02T21:00:33.433Z"
+  },
+  {
+    "hash": "3c617d5f7afe94c6ff2a6c484756d93b4bff0453314b8a4ada99bb4f9b641c2b",
+    "nombre": "Daniel",
+    "expira": "2026-12-31",
+    "tier": "extractor",
+    "eliminado_en": "2026-03-02T21:00:44.584Z"
+  },
+  {
+    "hash": "3c617d5f7afe94c6ff2a6c484756d93b4bff0453314b8a4ada99bb4f9b641c2b",
+    "nombre": "Daniel",
+    "expira": "2026-12-31",
+    "tier": "extractor",
+    "eliminado_en": "2026-03-02T21:01:12.493Z"
+  },
+  {
+    "hash": "3c617d5f7afe94c6ff2a6c484756d93b4bff0453314b8a4ada99bb4f9b641c2b",
+    "nombre": "Daniel",
+    "expira": "2026-12-31",
+    "tier": "extractor",
+    "eliminado_en": "2026-03-02T21:02:36.723Z"
+  },
+  {
+    "hash": "3c617d5f7afe94c6ff2a6c484756d93b4bff0453314b8a4ada99bb4f9b641c2b",
+    "nombre": "Daniel",
+    "expira": "2026-12-31",
+    "tier": "extractor",
+    "eliminado_en": "2026-03-02T21:10:45.297Z"
+  },
+  {
+    "hash": "3c617d5f7afe94c6ff2a6c484756d93b4bff0453314b8a4ada99bb4f9b641c2b",
+    "nombre": "Daniel",
+    "expira": "2026-12-31",
+    "tier": "extractor",
+    "eliminado_en": "2026-03-02T21:10:58.672Z"
+  },
+  {
+    "hash": "3c617d5f7afe94c6ff2a6c484756d93b4bff0453314b8a4ada99bb4f9b641c2b",
+    "nombre": "Daniel",
+    "expira": "2026-12-31",
+    "tier": "extractor",
+    "eliminado_en": "2026-03-02T21:13:43.931Z"
+  }
+]

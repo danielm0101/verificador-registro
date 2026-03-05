@@ -68,5 +68,12 @@
     "expira": "2026-12-31",
     "tier": "extractor",
     "eliminado_en": "2026-03-02T21:13:43.931Z"
+  },
+  {
+    "hash": "328003e192b66698d7e2051889586ca8cc19b7a6bafdde8af057e86291ce176d",
+    "nombre": "daniel64",
+    "expira": "2026-12-31",
+    "tier": "comparador",
+    "eliminado_en": "2026-03-05T18:06:00.562Z"
   }
 ]

@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updated": "2026-03-05T17:32:13.227Z",
+  "updated": "2026-03-05T17:35:54.863Z",
   "max_offline_days": 0,
   "autorizados": [
     {
@@ -221,10 +221,10 @@
     },
     {
       "hash": "328003e192b66698d7e2051889586ca8cc19b7a6bafdde8af057e86291ce176d",
-      "nombre": "Daniel64",
+      "nombre": "daniel64",
       "expira": "2026-12-31",
       "tier": "extractor"
     }
   ],
-  "signature": "ebdbc0e77a9cfcaa427bc12c944ccfa87bd104abab7c6ac301b78666afdcef5f"
+  "signature": "a6d2c1785a804cc3da6f56aad31806d17e93c421861847ef8e9d730000e7f3e9"
 }

@@ -75,5 +75,12 @@
     "expira": "2026-12-31",
     "tier": "comparador",
     "eliminado_en": "2026-03-05T18:06:00.562Z"
+  },
+  {
+    "hash": "58fbee67a4653021e7114eccabb9299e16a95e8e31e780251e61e10d8e91aaec",
+    "nombre": "Mateo Jn",
+    "expira": "2026-12-31",
+    "tier": "extractor",
+    "eliminado_en": "2026-03-05T22:00:14.485Z"
   }
 ]

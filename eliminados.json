@@ -82,5 +82,12 @@
     "expira": "2026-12-31",
     "tier": "extractor",
     "eliminado_en": "2026-03-05T22:00:14.485Z"
+  },
+  {
+    "hash": "e95ceb40ed36d2864981ce6572e596f69629510bd9c36b64a5170a47937d0ab9",
+    "nombre": "USB 0040",
+    "expira": "2026-07-20",
+    "tier": "extractor",
+    "eliminado_en": "2026-03-06T19:57:19.510Z"
   }
 ]

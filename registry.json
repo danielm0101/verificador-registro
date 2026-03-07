@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updated": "2026-03-07T21:05:03.449Z",
+  "updated": "2026-03-07T23:22:05.156Z",
   "max_offline_days": 0,
   "autorizados": [
     {
@@ -422,7 +422,13 @@
       "nombre": "Despacho2",
       "expira": "2026-12-31",
       "tier": "comparador"
+    },
+    {
+      "hash": "80b2f67355c6f70c95fc0864676e97cfc77541dbd581beda9e29ebf4c1c05a2b",
+      "nombre": "USB 0070",
+      "expira": "2026-07-20",
+      "tier": "extractor"
     }
   ],
-  "signature": "294d5fb607f172c0a4781b19ad54595d92b8720c80eb890c21a26b385e43f9a4"
+  "signature": "de4d2d0bc3e67d5a1225b6d6ee93096a03f740330a98c87aacf5c581c1ab49f8"
 }

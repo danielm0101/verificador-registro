@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updated": "2026-03-06T20:55:21.463Z",
+  "updated": "2026-03-07T20:54:18.398Z",
   "max_offline_days": 0,
   "autorizados": [
     {
@@ -229,7 +229,7 @@
       "hash": "41896363d39a911a79aa7ee1fb8c85fdf3f79d8baa093bf3af6a01945f1c9510",
       "nombre": "Mateo Jr",
       "expira": "2026-12-31",
-      "tier": "extractor"
+      "tier": "comparador"
     },
     {
       "hash": "44c707141431e3ee21293f8f466aaaaf59b7562f6a37e1821348a315691aea5d",
@@ -424,5 +424,5 @@
       "tier": "comparador"
     }
   ],
-  "signature": "69946d000b2015654a40606e50af7bb5c7f6fba539bfc2598a98bf55c00df03c"
+  "signature": "ebe35061c10a5efb5ec75b6c2433a61bb97f92fb4e4d53eabf76647ca647fa2a"
 }

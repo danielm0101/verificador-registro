@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updated": "2026-03-10T23:06:35.150Z",
+  "updated": "2026-03-10T23:07:15.769Z",
   "max_offline_days": 0,
   "autorizados": [
     {
@@ -542,7 +542,13 @@
       "nombre": "USB 0089",
       "expira": "2026-07-20",
       "tier": "comparador"
+    },
+    {
+      "hash": "29c011e3f7b1ba65c0e493b1741b6e47095fbd845234285912ac4d0ec38f1e62",
+      "nombre": "Mat Jr",
+      "expira": "2026-12-31",
+      "tier": "extractor"
     }
   ],
-  "signature": "feb18fda678a667287f5c471e035b8e33979614d1994a72f1b412de738727200"
+  "signature": "f38b4cb37af84ef41c20725ae74d7044fabeb4054431a5870fc5cbcc2e2aa1a1"
 }

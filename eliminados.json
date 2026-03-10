@@ -96,5 +96,12 @@
     "expira": "2026-12-31",
     "tier": "extractor",
     "eliminado_en": "2026-03-10T23:02:29.120Z"
+  },
+  {
+    "hash": "d8f089ab53415b185a4c763e623085faba7a66799701e6cd430a25955e45bb51",
+    "nombre": "MATEOJR",
+    "expira": "2026-12-31",
+    "tier": "extractor",
+    "eliminado_en": "2026-03-10T23:06:35.149Z"
   }
 ]

@@ -89,5 +89,12 @@
     "expira": "2026-07-20",
     "tier": "extractor",
     "eliminado_en": "2026-03-06T19:57:19.510Z"
+  },
+  {
+    "hash": "41896363d39a911a79aa7ee1fb8c85fdf3f79d8baa093bf3af6a01945f1c9510",
+    "nombre": "Mateo Jr",
+    "expira": "2026-12-31",
+    "tier": "extractor",
+    "eliminado_en": "2026-03-10T23:02:29.120Z"
   }
 ]

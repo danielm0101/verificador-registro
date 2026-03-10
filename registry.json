@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updated": "2026-03-10T23:02:56.959Z",
+  "updated": "2026-03-10T23:06:35.150Z",
   "max_offline_days": 0,
   "autorizados": [
     {
@@ -542,13 +542,7 @@
       "nombre": "USB 0089",
       "expira": "2026-07-20",
       "tier": "comparador"
-    },
-    {
-      "hash": "d8f089ab53415b185a4c763e623085faba7a66799701e6cd430a25955e45bb51",
-      "nombre": "MATEOJR",
-      "expira": "2026-12-31",
-      "tier": "extractor"
     }
   ],
-  "signature": "c233c4d771646a8ded112c4e5d2bb2c776d1a9a482f7cdbcb4df2c7303f37f00"
+  "signature": "feb18fda678a667287f5c471e035b8e33979614d1994a72f1b412de738727200"
 }

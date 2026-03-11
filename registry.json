@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updated": "2026-03-10T23:17:53.060Z",
+  "updated": "2026-03-11T14:01:08.176Z",
   "max_offline_days": 0,
   "autorizados": [
     {
@@ -554,7 +554,13 @@
       "nombre": "KINGSTON - USB Test",
       "expira": "2026-12-31",
       "tier": "comparador"
+    },
+    {
+      "hash": "0af936c726cd0e6b0c229c9b9cccea6f56c14c09730690d7e3d8a32b9fe07b2d",
+      "nombre": "Despacho 3",
+      "expira": "2026-12-31",
+      "tier": "extractor"
     }
   ],
-  "signature": "3c0d1d696fe3959f256718cfc3576469c9bc0db1ff5b17b6ec430f2c30bf77d2"
+  "signature": "3c99befd9db1e33113bd99edf0cb3f83e8c727309f2b08f18a5ee4d4bd99ceb0"
 }

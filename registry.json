@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updated": "2026-03-12T13:22:55.848Z",
+  "updated": "2026-03-12T13:25:42.987Z",
   "max_offline_days": 0,
   "autorizados": [
     {
@@ -559,7 +559,7 @@
       "hash": "0af936c726cd0e6b0c229c9b9cccea6f56c14c09730690d7e3d8a32b9fe07b2d",
       "nombre": "Despacho 3",
       "expira": "2026-12-31",
-      "tier": "comparador"
+      "tier": "extractor"
     },
     {
       "hash": "96dcf1a3f2c663c8448dda2d6d2125ac6a3e054fe9280797231fbd9acb9b8463",
@@ -571,8 +571,8 @@
       "hash": "f840c55f2986810e412749a43bf606dd3edea5f9f157992605304d562640d4ee",
       "nombre": "Despacho 5",
       "expira": "2026-12-31",
-      "tier": "extractor"
+      "tier": "comparador"
     }
   ],
-  "signature": "b17ae01a037ee77d2670823e44fde013a86492c78f24d22cf34a2ca8ed1f3a8e"
+  "signature": "e8d4d37ae238f73eeddac7e527e9fae628910db76e7d09fd936d460b2f5f85f2"
 }

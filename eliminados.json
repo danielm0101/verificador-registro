@@ -117,5 +117,12 @@
     "expira": "2026-12-31",
     "tier": "extractor",
     "eliminado_en": "2026-03-14T02:47:54.599Z"
+  },
+  {
+    "hash": "87a7d2de15cb26831ee2f0b95dd634dbd46710471203079d60677106a315e04f",
+    "nombre": "pepe",
+    "expira": "2026-12-31",
+    "tier": "comparador",
+    "eliminado_en": "2026-03-14T03:21:10.152Z"
   }
 ]

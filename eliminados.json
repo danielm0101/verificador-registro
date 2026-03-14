@@ -110,5 +110,12 @@
     "expira": "2026-12-31",
     "tier": "comparador",
     "eliminado_en": "2026-03-14T02:29:50.826Z"
+  },
+  {
+    "hash": "2ecdba93b4bece6e8d49ff2fa30c8167fade625708c3c21122448f918892f5d1",
+    "nombre": "DanielMat",
+    "expira": "2026-12-31",
+    "tier": "extractor",
+    "eliminado_en": "2026-03-14T02:47:54.599Z"
   }
 ]

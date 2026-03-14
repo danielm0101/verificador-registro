@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updated": "2026-03-14T01:58:06.725Z",
+  "updated": "2026-03-14T02:10:20.339Z",
   "max_offline_days": 0,
   "autorizados": [
     {
@@ -572,7 +572,13 @@
       "nombre": "Despacho 5",
       "expira": "2026-12-31",
       "tier": "extractor"
+    },
+    {
+      "hash": "47be4a193be3983c02398b94252c80ff9ff19f7fd28ab60e52dc8e3951ec69c2",
+      "nombre": "Daniel Mat",
+      "expira": "2026-12-31",
+      "tier": "extractor"
     }
   ],
-  "signature": "0526b0531fc29525d10efb84496ae38218f1bebf32108f7a2d78ce8c9fc8f104"
+  "signature": "bd239ba33a88b8e0f2681253e0365804ef9931ca94393e742675b4f693174912"
 }

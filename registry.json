@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updated": "2026-03-14T03:21:10.153Z",
+  "updated": "2026-03-14T03:25:14.461Z",
   "max_offline_days": 0,
   "autorizados": [
     {
@@ -578,7 +578,25 @@
       "nombre": "DanielMat",
       "expira": "2026-12-31",
       "tier": "comparador"
+    },
+    {
+      "hash": "f39f0f05c372cc2027958f5f0a6ed21b870aa5abd0f47b5a680b5c8ca0ee3109",
+      "nombre": "DanielMat",
+      "expira": "2026-12-31",
+      "tier": "extractor"
+    },
+    {
+      "hash": "1e70b64e58fb77a8d95a8f4f2a206c0e0e481190b91e2cb288141654c8a7fc7f",
+      "nombre": "DanielMat",
+      "expira": "2026-12-31",
+      "tier": "extractor"
+    },
+    {
+      "hash": "7391e422e66455c37b4d603d8806651766bb90e2588c156668ecc1aa6c5b93f7",
+      "nombre": "DanielMat",
+      "expira": "2026-12-31",
+      "tier": "extractor"
     }
   ],
-  "signature": "a1d11beef3467046b3ac6b12a1880a94ee154382289dee0420b924189f547009"
+  "signature": "ea0e90b5a451d01433f2553a03e8418ae40128a36b18493b63a67ae507fe205e"
 }

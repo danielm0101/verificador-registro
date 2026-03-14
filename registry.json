@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updated": "2026-03-14T02:48:38.914Z",
+  "updated": "2026-03-14T03:21:10.153Z",
   "max_offline_days": 0,
   "autorizados": [
     {
@@ -574,11 +574,11 @@
       "tier": "extractor"
     },
     {
-      "hash": "87a7d2de15cb26831ee2f0b95dd634dbd46710471203079d60677106a315e04f",
-      "nombre": "pepe",
+      "hash": "595b7c015a8c56d31833ecc61a7a270deda2dda3e17280013183849cd8573647",
+      "nombre": "DanielMat",
       "expira": "2026-12-31",
       "tier": "comparador"
     }
   ],
-  "signature": "fdc07ab9968b72ddb8f39a3b8bf55848829c11b7e14e92385b877cba5697a496"
+  "signature": "a1d11beef3467046b3ac6b12a1880a94ee154382289dee0420b924189f547009"
 }

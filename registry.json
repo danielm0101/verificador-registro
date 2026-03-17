@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updated": "2026-03-14T03:25:14.461Z",
+  "updated": "2026-03-17T14:22:25.549Z",
   "max_offline_days": 0,
   "autorizados": [
     {
@@ -547,13 +547,13 @@
       "hash": "29c011e3f7b1ba65c0e493b1741b6e47095fbd845234285912ac4d0ec38f1e62",
       "nombre": "Mat Jr",
       "expira": "2026-12-31",
-      "tier": "extractor"
+      "tier": "comparador"
     },
     {
       "hash": "1f9c766fcb705c99e6697d0771c15ff8f12a968da512984c44b6f5d78be3c855",
       "nombre": "KINGSTON - USB Test",
       "expira": "2026-12-31",
-      "tier": "extractor"
+      "tier": "comparador"
     },
     {
       "hash": "0af936c726cd0e6b0c229c9b9cccea6f56c14c09730690d7e3d8a32b9fe07b2d",
@@ -571,32 +571,14 @@
       "hash": "f840c55f2986810e412749a43bf606dd3edea5f9f157992605304d562640d4ee",
       "nombre": "Despacho 5",
       "expira": "2026-12-31",
-      "tier": "extractor"
-    },
-    {
-      "hash": "595b7c015a8c56d31833ecc61a7a270deda2dda3e17280013183849cd8573647",
-      "nombre": "DanielMat",
-      "expira": "2026-12-31",
       "tier": "comparador"
     },
     {
-      "hash": "f39f0f05c372cc2027958f5f0a6ed21b870aa5abd0f47b5a680b5c8ca0ee3109",
-      "nombre": "DanielMat",
+      "hash": "7d4c1662f063d637467299326a8bbca8ba80bcbe9df271af42ed6af1902710d2",
+      "nombre": "DanielMateoJR",
       "expira": "2026-12-31",
-      "tier": "extractor"
-    },
-    {
-      "hash": "1e70b64e58fb77a8d95a8f4f2a206c0e0e481190b91e2cb288141654c8a7fc7f",
-      "nombre": "DanielMat",
-      "expira": "2026-12-31",
-      "tier": "extractor"
-    },
-    {
-      "hash": "7391e422e66455c37b4d603d8806651766bb90e2588c156668ecc1aa6c5b93f7",
-      "nombre": "DanielMat",
-      "expira": "2026-12-31",
-      "tier": "extractor"
+      "tier": "comparador"
     }
   ],
-  "signature": "ea0e90b5a451d01433f2553a03e8418ae40128a36b18493b63a67ae507fe205e"
+  "signature": "227ccdffb6f6c9058b299b75869717e729771be735268d473fc87b7e77695a6e"
 }

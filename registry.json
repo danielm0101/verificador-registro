@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updated": "2026-03-17T14:22:25.549Z",
+  "updated": "2026-03-17T14:22:20.762Z",
   "max_offline_days": 0,
   "autorizados": [
     {
@@ -580,5 +580,5 @@
       "tier": "comparador"
     }
   ],
-  "signature": "227ccdffb6f6c9058b299b75869717e729771be735268d473fc87b7e77695a6e"
+  "signature": "3a00e26d2953a699bed4dd7b088f79a1a77cb583ec694eced194281510b41563"
 }

@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updated": "2026-03-17T21:49:46.043Z",
+  "updated": "2026-03-17T22:15:16.885Z",
   "max_offline_days": 0,
   "autorizados": [
     {
@@ -574,12 +574,6 @@
       "tier": "comparador"
     },
     {
-      "hash": "7d4c1662f063d637467299326a8bbca8ba80bcbe9df271af42ed6af1902710d2",
-      "nombre": "DanielMateoJR",
-      "expira": "2026-12-31",
-      "tier": "comparador"
-    },
-    {
       "hash": "a172125c73aa7722fd6d4b691cfb799028bd419a639f1db9ad7cc34488519d61",
       "nombre": "Despacho6",
       "expira": "2026-12-31",
@@ -590,7 +584,13 @@
       "nombre": "Despacho6",
       "expira": "2026-12-31",
       "tier": "extractor"
+    },
+    {
+      "hash": "f6c1fad630ada7d3dc042825e9aac63911545006a5b175fc5c15a794ccc881c6",
+      "nombre": "DanielMateoJR1",
+      "expira": "2026-12-31",
+      "tier": "extractor"
     }
   ],
-  "signature": "c82b3a196fcdd45c188a5f7bdf42288648a61571b2b8d9bcec71f67e1b14bcb0"
+  "signature": "77212a1f5f9ef8e38f9e1e9dc7f13a5673f9fe972895d97236b0e97191a0482e"
 }

@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updated": "2026-03-20T15:09:06.868Z",
+  "updated": "2026-04-08T03:14:56.510Z",
   "max_offline_days": 0,
   "autorizados": [
     {
@@ -589,8 +589,8 @@
       "hash": "f6c1fad630ada7d3dc042825e9aac63911545006a5b175fc5c15a794ccc881c6",
       "nombre": "DanielMateoJR1",
       "expira": "2026-12-31",
-      "tier": "comparador"
+      "tier": "extractor"
     }
   ],
-  "signature": "315ca59b3edb4d89bf093682d9c470e6b4ffc124b2bc3e351cc2c41966e76812"
+  "signature": "45b730c385203a83aabbb3ea4fa2f3ec1abe9a5b7fe9bab35f37c24a12c7561e"
 }
